@@ -1,6 +1,6 @@
 # _jengkolrebus
 # Curup, Bengkulu
-# Mei 2019
+# Mei 2020
 
 import matplotlib
 matplotlib.rcParams['text.usetex'] = True
